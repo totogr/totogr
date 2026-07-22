@@ -49,14 +49,12 @@
 
 ### 🚀 Proyectos destacados
 
-> ℹ️ *Actualizá los links cuando separes cada proyecto en su propio repositorio.*
-
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| **[RoomRTC](https://github.com/totogr)** | Stack de videollamadas **P2P (WebRTC) implementado desde cero**: señalización, negociación de la conexión y video en tiempo real. | Rust · ICE-Lite/STUN · H.264/RTP · AES-256-GCM |
-| **[Plataforma de gestión de turnos](https://github.com/totogr)** | App full-stack para que profesionales gestionen su agenda y los clientes reserven, cancelen o reprogramen turnos. | Java 21 · Spring Boot · React · Docker · CI/CD |
-| **[Alquiler de Bicicletas](https://github.com/totogr)** | **Sistema distribuido** de alquiler automatizado de bicicletas, tolerante a caídas de nodos, con modelo de actores. | Rust · actix · sockets · concurrencia |
-| **[Sistemas-L](https://github.com/totogr)** | Generador de imágenes fractales con sistemas de Lindenmayer y gráficos tortuga, exportando a SVG. | Clojure · programación funcional |
+| **[RoomRTC](https://github.com/totogr/roomrtc)** | Stack de videollamadas **P2P (WebRTC) implementado desde cero**: señalización, negociación de la conexión y video en tiempo real. | Rust · ICE-Lite/STUN · H.264/RTP · AES-256-GCM |
+| **[Plataforma de gestión de turnos](https://github.com/totogr/plataforma-turnos)** | App full-stack para que profesionales gestionen su agenda y los clientes reserven, cancelen o reprogramen turnos. | Java 21 · Spring Boot · React · Docker · CI/CD |
+| **[Alquiler de Bicicletas](https://github.com/totogr/alquiler-bicicletas)** | **Sistema distribuido** de alquiler automatizado de bicicletas, tolerante a caídas de nodos, con modelo de actores. | Rust · actix · sockets · concurrencia |
+| **Sistemas-L** *(por separar)* | Generador de imágenes fractales con sistemas de Lindenmayer y gráficos tortuga, exportando a SVG. | Clojure · programación funcional |
 
 ---
 
